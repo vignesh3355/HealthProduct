@@ -16,6 +16,7 @@ This is a web based application developed for healthcare products
 - Included the comment space to increase the scope of improvement 
 
 ## Screenshots
+![image](https://user-images.githubusercontent.com/118621659/204217241-34056921-79b7-4614-abdb-4ee005bc6f5a.png)
 
 ## About us
 ![image](https://user-images.githubusercontent.com/118621659/204212073-5b6288df-07fb-4474-861d-bd1f8e363a31.png)
