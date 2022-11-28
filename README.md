@@ -31,6 +31,7 @@ This is a web based application developed for healthcare products
 ![image](https://user-images.githubusercontent.com/118621659/204208673-0a5beec3-304e-4cab-9001-9f52c27a48d6.png)
 
 2. App Service and Web Apps
+![image](https://user-images.githubusercontent.com/118621659/204210363-fca5fc7e-30b6-4044-a867-26ff415dbf2c.png)
 
 ## Tech Stack
 - Microsoft Azure
