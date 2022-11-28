@@ -18,13 +18,18 @@ This is a web based application developed for healthcare products
 ## Screenshots
 
 ## About us
+![image](https://user-images.githubusercontent.com/118621659/204212073-5b6288df-07fb-4474-861d-bd1f8e363a31.png)
 
 ## Disclaimer
 ![image](https://user-images.githubusercontent.com/118621659/204208228-28d3fd12-4ba0-4728-86dd-f97f25bb29f6.png)
 
 ## privacy policy
+![image](https://user-images.githubusercontent.com/118621659/204212286-128bd611-bc3b-486d-a7d8-64b6c92a7c2a.png)
 
 ## posts
+![image](https://user-images.githubusercontent.com/118621659/204216065-639a2848-2d32-422e-9934-5202db3aaa32.png)
+
+![image](https://user-images.githubusercontent.com/118621659/204216370-2e71c605-05d4-48ef-9677-c7fe969780fd.png)
 
 ## Primary Azure Technology used
 1. Microsoft Azure Portal
